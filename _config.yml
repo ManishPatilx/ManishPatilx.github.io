@@ -33,6 +33,7 @@ github_username:  jekyll
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 minimal_mistakes_skin: "dark"
 include: ["_pages","_data"]
