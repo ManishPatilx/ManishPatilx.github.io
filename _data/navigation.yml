@@ -1,6 +1,4 @@
 main:
-  - title: "Quick-Start Guide"
-    url: /test/file1.markdown
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
