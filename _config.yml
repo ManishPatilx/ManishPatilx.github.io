@@ -21,7 +21,7 @@ include: ["_pages","_data"]
 # Site Author
 author:
   name             : "Manish Patil"
-  avatar           : "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/manish.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "DevOps Engineer at Amadeus"
   location         : "South Banglore, India"
   email            : "patilmanish.ofc@gmail.com"
