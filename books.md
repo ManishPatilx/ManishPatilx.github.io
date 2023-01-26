@@ -5,7 +5,7 @@ collection: books
 permalink: /books/
 ---
 
-My public journal. I post here every week.
+Books I have read and My two cents on them.
 
 ---
 
