@@ -5,7 +5,7 @@ permalink: /books/
 comments: true
 ---
 
-This is my blog page.
+to be updated.
 
 <!-- {% for post in site.posts %}
     {% include archive-single.html %}
