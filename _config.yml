@@ -50,6 +50,8 @@ author:
   youtube          :
 
 
+
+
 # Defaults
 defaults:
   # _posts
@@ -62,3 +64,10 @@ defaults:
       comments: true # true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: single
+      author_profile: true
+      share: true
