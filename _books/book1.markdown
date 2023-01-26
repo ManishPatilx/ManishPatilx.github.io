@@ -1,7 +1,7 @@
 ---
 title:  "Fyodor Dostoevsky : The Brothers Karamazov"
 layout: archive
-permalink: /books/
+permalink: /books/book1/
 comments: true
 ---
 
