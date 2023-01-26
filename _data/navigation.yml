@@ -1,6 +1,8 @@
 main:
   - title: "Books"
     url: /Books/
+  - title: "Tech"
+    url: /Tech/
   - title: "Blogs"
     url: /Blogs/
   - title: "Collections"
