@@ -49,13 +49,12 @@ author:
   xing             :
   youtube          :
 
-author_profile: true
+
 # Defaults
 defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
     values:
       layout: single
       author_profile: true
