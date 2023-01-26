@@ -49,7 +49,10 @@ author:
   xing             :
   youtube          :
 
-
+collections:
+  books:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
