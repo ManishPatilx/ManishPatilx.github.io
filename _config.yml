@@ -38,6 +38,41 @@ plugins:
 
 include: ["_pages","_data"]
 
+# Site Author
+author:
+  name             : "Manish Patil"
+  avatar           : "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Biostatistics Ph.D at Yale"
+  location         : "New Haven, CT"
+  email            : "li.zeng@yale.edu"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "zengliX"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : ""
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+
+
+
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
