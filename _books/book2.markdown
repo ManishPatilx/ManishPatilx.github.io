@@ -1,7 +1,7 @@
 ---
 title:  "Black Warrent"
 layout: archive
-permalink: /books/
+permalink: /books/book1/
 comments: true
 ---
 
