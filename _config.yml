@@ -30,7 +30,7 @@ twitter_username: patil8982
 github_username:  jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # Build settings
-
+minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
