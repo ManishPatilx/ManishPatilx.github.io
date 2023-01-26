@@ -1,9 +1,9 @@
 main:
   - title: "Books"
-    url: /Books/
+    url: /books/
   - title: "Tech"
-    url: /Tech/
+    url: /tech/
   - title: "Blogs"
-    url: /Blogs/
+    url: /blogs/
   - title: "Collections"
-    url: /collection-archive/
+    url: /collection/

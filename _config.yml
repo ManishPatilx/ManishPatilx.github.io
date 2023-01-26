@@ -16,7 +16,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-include: ["_pages","_posts"]
+include: ["_pages","_posts","_books","_tech","_collection","_blogs"]
 
 # Site Author
 author:
