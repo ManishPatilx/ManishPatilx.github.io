@@ -20,5 +20,4 @@ Books I have read and My two cents on them.
     </h2>
     </article>
 </div>
-{% endfor %}
 </div>
