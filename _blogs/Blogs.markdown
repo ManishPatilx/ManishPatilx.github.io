@@ -1,7 +1,7 @@
 ---
 title:  "Blogs"
 layout: archive
-permalink: /blogs/Blogs/
+permalink: "/blogs/Blogs/"
 comments: true
 ---
 
