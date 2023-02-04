@@ -5,8 +5,5 @@ permalink: /blogs/
 comments: true
 ---
 
-This is my blog page.
+Red Dead Redemption 2 
 
-<!-- {% for post in site.posts %}
-    {% include archive-single.html %}
-{% endfor %} -->
