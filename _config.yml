@@ -74,3 +74,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  - scope:
+      path: ""
+      type: blogs
+    values:
+      layout: single
+      author_profile: true
+      share: true
