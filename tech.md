@@ -9,7 +9,7 @@ Books I have read and My two cents on them.
 
 ---
 
-{% assign sorted = (site.books | sort: 'date') | reverse %}
+{% assign sorted = (site.tech | sort: 'date') | reverse %}
 
 <div class = "posts__scribbles">
 {% for item in sorted %}
