@@ -60,6 +60,9 @@ collections:
   tech:
     output: true
     permalink: /:collection/:path/
+  collection:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
