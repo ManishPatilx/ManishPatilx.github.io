@@ -14,7 +14,7 @@ author_profile: true
  {% assign cover = item.url | split: "/" %}
   <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
       <div class="archive__item-teaser">
-        <img src="/assets/images/{{ cover | slice: -1 }}-cover.png" alt="">
+        <img src="/assets/images/pp.png" alt="">
       </div>
     <h2 class="archive__item-title" itemprop="headline">
         <a href="{{ item.url}}" rel="permalink">{{ item.title }}
