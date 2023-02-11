@@ -1,5 +1,5 @@
 ---
-title:  "Blogs"
+title:  "Red Dead Redemption 2"
 layout: archive
 permalink: "/blogs/Blogs/"
 comments: true
