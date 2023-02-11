@@ -5,8 +5,6 @@ collection: tech
 permalink: /tech/
 ---
 
-Books I have read and My two cents on them.
-
 ---
 
 {% assign sorted = (site.tech | sort: 'date') | reverse %}
