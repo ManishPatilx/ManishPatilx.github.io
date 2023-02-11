@@ -20,8 +20,6 @@ author_profile: true
         <a href="{{ item.url}}" rel="permalink">{{ item.title }}
 </a>
     </h2>
-    <p class="archive__item-excerpt" itemprop="description">{{ item.excerpt }}
-</p>
   </article>
 </div>
 {% endfor %}
