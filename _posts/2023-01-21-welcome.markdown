@@ -4,7 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2023-01-21 23:07:06 +0530
 author_profile: true
 header:
-  teaser: /pp.png
+  teaser: "/assets/images/pp.png"
 ---
 
 
