@@ -95,5 +95,4 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      header:
-        teaser: "/pp.png"
+      teaser: /pp.png
