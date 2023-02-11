@@ -87,3 +87,11 @@ defaults:
       layout: single
       author_profile: true
       share: true
+   - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      teaser: /pp.png
