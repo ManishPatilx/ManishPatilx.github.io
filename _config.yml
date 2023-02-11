@@ -87,7 +87,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-   - scope:
+  - scope:
       path: ""
       type: posts
     values:
