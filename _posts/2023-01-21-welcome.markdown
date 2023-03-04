@@ -3,8 +3,6 @@ title:  "Are you speaking the truth ?"
 layout: single
 permalink: "/posts/2023-01-21-welcome"
 comments: true
-header:
-  teaser: /assets/images/pp.png
 ---
 
 
@@ -29,3 +27,4 @@ of nearer to it - at that very moment I predict that you will reach it and
 behold clearly the miraculous power of the Lord who has been all the
 time loving and mysteriously guiding you.
 
+                                            from The Brothers Karamazov
