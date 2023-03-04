@@ -1,9 +1,11 @@
 ---
-title:  "Fyodor Dostoevsky : The Brothers Karamazov"
+title:  "The Brothers Karamazov"
 layout: archive
 permalink: "/books/book1/"
 comments: true
 ---
+
+                    --x--Fyodor Dostoevsky--x--
 
 to be updated.
 
